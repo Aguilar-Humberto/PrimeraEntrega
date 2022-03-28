@@ -1,7 +1,8 @@
 # ProyectoEntregableBlog
-Proyecto de pagina web con Django para Curso CoderHouse
+Proyecto de pagina web con Django para Curso CoderHouse.
 
-Se creó la carpeta principal del proyecto llamada ProyectoCoderFinal
+Se creó la carpeta principal del proyecto llamada ProyectoCoderFinal.
+
 Luego se creó la app "AppCoder" dentro de la cual se crearon las urls, views, formularios y modelos para las 4 funcionalidades que hasta ahora tiene el blog
 Las 4 funcionalidades del blog son: 
 
